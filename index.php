@@ -36,10 +36,11 @@
 		<div class="newssection">
 			<hr>
 			<div class="newsmedia">
-				<img alt="Origins Album Cover" src="images/OriginsCover.jpg" width="50%" height="auto" align="middle">
+				<iframe width="80%" height="500px" frameBorder="0" src="https://www.youtube.com/embed/Nq785nOJ8xU">
+				</iframe>
 			</div>
 			<div class="newsblurbtitle">
-				<h2>Origins Release Date... 10.1.2017</h2>
+				<h2>Origins Out NOW!</h2>
 			</div>
 		</div>
 		<div class="newssection">

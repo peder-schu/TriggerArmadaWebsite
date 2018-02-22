@@ -69,10 +69,10 @@ body {
 }
 
 #mainleft {
-	width: 60%;
+	width: 58%;
 	float: left;
 	border-style: groove;
-	border-width: medium;
+	border-width: small;
 	background-color: #484848;
 }
 
@@ -80,15 +80,9 @@ body {
 	width: 38%;
 	float: right;
 	border-style: groove;
-	border-width: medium;
+	border-width: small;
 	background-color: #484848;
 	padding: 5px;
-}
-
-#mainmiddle {
-	border-style: groove;
-	border-width: medium;
-	background-color: #484848;
 }
 
 .sidepic {
