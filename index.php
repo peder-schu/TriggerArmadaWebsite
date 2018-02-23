@@ -8,7 +8,7 @@
 <head>
 	<meta charset='charset=utf-8'>
 	<link type="text/css" rel="stylesheet" href="style.css">
-	<link type="image/gif" rel="icon" href="images/OriginsCover.jpg">
+	<link type="image/gif" rel="icon" href="images/TA4.jpg">
 	<title>Trigger Armada</title>
 	<meta name="description" content="Trigger Armada - Home">
 	<meta name="author" content="Peder Schuller">
@@ -19,12 +19,30 @@
 	<table class="navbuttontable">
 		<tr>
 			<th><a class="two" href="index.php"><h2>Home</h2></a></a></th>
-			<th><a class="two" href="index.php"><h2>Shows</h2>(coming soon)</a></th>
-			<th><a class="two" href="index.php"><h2>Music</h2>(coming soon)</a></th>
-			<th><a class="two" href="index.php"><h2>Merch</h2>(coming soon)</a></th>
-			<th><a class="two" href="index.php"><h2>Media</h2>(coming soon)</a></th>
-			<th><a class="two" href="index.php"><h2>About</h2>(coming soon)</a></th>
-			<th><a class="two" href="index.php"><h2>Contact</h2>(coming soon)</a></th>
+			<th><a class="two" href="index.php"><h2>Shows</h2></a></th>
+			<th><a class="two" href="index.php"><h2>Music</h2></a></th>
+			<th><a class="two" href="index.php"><h2>Merch</h2></a></th>
+			<th><a class="two" href="index.php"><h2>Media</h2></a></th>
+			<th><a class="two" href="index.php"><h2>About</h2></a></th>
+			<th><a class="two" href="index.php"><h2>Contact</h2></a></th>
+		</tr>
+	</table>
+</div>
+<div class="header">
+	<table class="navbuttontable">
+		<tr>
+			<th><a href="https://www.facebook.com/TriggerArmada/">
+					<img src="images/FB-f-Logo__white_29.png" alt="Facebook" style="max-width: 100%; height: auto;"></a></th>
+			<th><a href="https://www.youtube.com/channel/UCDvGS1LygBKE5eOWaqdTBLw">
+					<img src="images/yt_icon_mono_dark.png" alt="YouTube" style="height: 29px; max-width: auto;"></a></th>
+			<th><a href="https://open.spotify.com/artist/62HJgVLPeoYT27dfPCDsXh">
+					<img src="images/Spotify_Icon_CMYK_White.png" alt="Spotify" style="height: 29px; max-width: auto;"></a></th>
+			<th><a href="https://itunes.apple.com/us/artist/trigger-armada/1294937470">
+					<img src="images/Apple_Music_Icon_wht.svg" alt="Apple Music" style="height: 29px; max-width: auto;"></a></th>
+			<th><a href="https://www.instagram.com/triggerarmada/">
+					<img src="images/IG_Glyph_Fill.png" alt="Instagram" style="height: 37px; max-width: auto;"></a></th>
+			<th><a href="https://twitter.com/TriggerArmada">
+					<img src="images/Twitter_Logo_Fill.png" alt="Twitter" style="height: 30px; max-width: auto;"></a></th>
 		</tr>
 	</table>
 </div>
