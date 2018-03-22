@@ -68,6 +68,13 @@ body {
 	margin-left: 50px;
 }
 
+.contactcontent {
+	font-family: TAFont, Times;
+	font-size: 150%;
+	text-align: left;
+	margin-left: 10px;	
+}
+
 #mainleft {
 	width: 58%;
 	float: left;
@@ -85,12 +92,23 @@ body {
 	padding: 5px;
 }
 
-.sidepic {
-	float: right;
-	clear: both;
-	margin-left: 20px;
+#leftpicstream {
 	width: 30%;
-	height: auto;
+	float: left;
+}
+
+#midcontent {
+	width: 35%;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: groove;
+	border-width: small;
+	background-color: #484848;
+}
+
+#rightpicstream {
+	width: 30%;
+	float: right;
 }
 
 .newsmedia {
