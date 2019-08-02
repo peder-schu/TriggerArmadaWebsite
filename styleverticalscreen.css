@@ -1,0 +1,189 @@
+@font-face {
+	font-family: TAFont;
+	src: url(fonts/TAFont.otf);
+}
+
+@font-face {
+	font-family: TAFontRough;
+	src: url(fonts/TAFontRough.otf);
+}
+
+@font-face {
+	font-family: TAShadow;
+	src: url(fonts/TAShadow.otf);
+}
+
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #828282;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+#bottom-bar * {
+	height: 80px;
+	color: white;
+	background-color: black;
+	padding: 30px;
+	margin: 0;
+	clear: both;
+}
+
+.header {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.navbuttontable {
+	height:50px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	/*color: #6f00d1;*/
+	/*color: gray;*/
+}
+
+.content {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.content * {
+	position:relative;
+}
+
+.newsblurbtitle {
+	clear: both;
+	font-family: TAFont, Times;
+	font-size: 150%;
+	text-align: left;
+	margin-left: 50px;
+}
+
+.contactcontent {
+	font-family: TAFont, Times;
+	font-size: 150%;
+	text-align: left;
+	margin-left: 10px;	
+}
+
+#mainleft {
+	width: 58%;
+	float: left;
+	border-style: groove;
+	border-width: small;
+	background-color: #484848;
+}
+
+#mainright {
+	width: 38%;
+	float: right;
+	border-style: groove;
+	border-width: small;
+	background-color: #484848;
+	padding: 5px;
+}
+
+#leftpicstream {
+	display: none;
+	width: 0%;
+	float: left;
+}
+
+#midcontent {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: groove;
+	border-width: small;
+	background-color: #484848;
+}
+
+#fullcontent {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: groove;
+	border-width: small;
+	background-color: #484848;
+}
+
+#rightpicstream {
+	display: none;
+	width: 0%;
+	float: right;
+}
+
+.newsmedia {
+	width: 100%;
+	background-color: black;
+}
+
+.newssection {
+	width: 100%;
+	clear: both;
+}
+
+h1 {
+	font-family: TAFontRough, Times;
+	font-size: 300%;
+	color: white;
+}
+
+#h1left {
+	font-family: TAFontRough, Times;
+	font-size: 280%;
+	color: white;
+	text-align: left;
+	padding-left: 20px;
+}
+
+h3 {
+	font-family: TAFont, Times;
+	font-size: 200%;
+	color: white;
+	text-align: left;
+	padding-left: 10px;
+}
+
+img {
+	margin: 0;
+}
+
+a.one:link {
+	color: #33cc33;
+}
+a.one:visited {
+	color: #33cc33;
+}
+a.one:hover {
+	color: white;
+}
+
+a.two:link {
+	color: #6f00d1;
+	font-family: TAFont;
+	text-decoration: none;
+	font-size: 200%;
+	padding-top: 10px;
+}
+a.two:visited {
+	color: #6f00d1;
+	font-family: TAFont;
+	text-decoration: none;
+	font-size: 200%;
+}
+a.two:hover {
+	color: #6f00d1;
+	font-family: TAShadow;
+	text-decoration: none;
+	font-size: 200%;
+}
