@@ -15,12 +15,12 @@
 	<img src="images/profile2.jpg" alt="Trigger Armada" style="max-width: 100%; height: auto;">
 	<table class="navbuttontable">
 		<tr>
-			<th><a class="two" href="index.html"><h2>Home</h2></a></a></th>
-			<th><a class="two" href="events.html"><h2>Shows</h2></a></th>
-			<th><a class="two" href="music.html"><h2>Music</h2></a></th>
-			<th><a class="two" href="merch.html"><h2>Merch</h2></a></th>
-			<th><a class="two" href="about.html"><h2>About</h2></a></th>
-			<th><a class="two" href="contact.html"><h2>Contact</h2></a></th>
+			<th><a class="two" href="index.php"><h2>Home</h2></a></a></th>
+			<th><a class="two" href="events.php"><h2>Shows</h2></a></th>
+			<th><a class="two" href="music.php"><h2>Music</h2></a></th>
+			<th><a class="two" href="merch.php"><h2>Merch</h2></a></th>
+			<th><a class="two" href="about.php"><h2>About</h2></a></th>
+			<th><a class="two" href="contact.php"><h2>Contact</h2></a></th>
 		</tr>
 	</table>
 </div>
@@ -42,29 +42,17 @@
 		</tr>
 	</table>
 </div>
+
 <div class="content">
-	<div id="leftpicstream">
-		<img src="images/JeremyAndJose.jpg" width="100%" height="auto">
-		<img src="images/TALive2.jpg" width="100%" height="auto">
-		<img src="images/TriggerArmada02.jpg" width="100%" height="auto">
-	</div>
-	<div id="rightpicstream">
-		<img src="images/TALive1.jpg" width="100%" height="auto">
-		<img src="images/TriggerArmada01.jpg" width="100%" height="auto">
-		<img src="images/TriggerArmadaFreedomRidge.jpg" width="100%" height="auto">
-	</div>
-	<div id="midcontent">
-		<h1>See Trigger Armada Live!</h1>
+	<div id="fullcontent">
+		<h1>Armada Merchandise</h1>
 		<hr/>
-		<hr/>
-		<h3>Trigger Armada does not currently have any shows scheduled, we're writing new music!  <a class="one" href="contact.html">Contact us</a> for booking inquiries!</h3>
-		<!--<a class="one" href="https://www.facebook.com/events/719257198528409/" target="_blank">
-		<img alt="RED//Triple Stitch//Los Suenos//Trigger Armada" src="images/RedCaboozePoster.jpg" width="100%" height="auto">	
-		<h2>8/30/2019 - RED @ The Cabooze w/ Triple Stitch, Los Suenos, and Trigger Armada</h2></a>
-		<h3>Tickets available for $20 from any band member; no fees, free delivery.  Or online: <a class="one" href="https://www.leopresents.com/event/1880269-red-minneapolis/" target="_blank">LeoPresents</a></h3>-->
-		<hr/>
+		<h1 id="h1left">Sorry for the inconvenience, our merchandise is only available at our live shows or by request.  We may fulfill <a class="one" href="contact.php">email requests</a> depending on your location.</h1>
+		<h3>Shirts - $15</h3>
+		<h3>CDs - $10</h3>
+		<h3>Both - $20</h3>
 	</div>
-</div>	
+</div>
 
 </body>
 

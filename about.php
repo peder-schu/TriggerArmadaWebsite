@@ -15,12 +15,12 @@
 	<img src="images/profile2.jpg" alt="Trigger Armada" style="max-width: 100%; height: auto;">
 	<table class="navbuttontable">
 		<tr>
-			<th><a class="two" href="index.html"><h2>Home</h2></a></a></th>
-			<th><a class="two" href="events.html"><h2>Shows</h2></a></th>
-			<th><a class="two" href="music.html"><h2>Music</h2></a></th>
-			<th><a class="two" href="merch.html"><h2>Merch</h2></a></th>
-			<th><a class="two" href="about.html"><h2>About</h2></a></th>
-			<th><a class="two" href="contact.html"><h2>Contact</h2></a></th>
+			<th><a class="two" href="index.php"><h2>Home</h2></a></a></th>
+			<th><a class="two" href="events.php"><h2>Shows</h2></a></th>
+			<th><a class="two" href="music.php"><h2>Music</h2></a></th>
+			<th><a class="two" href="merch.php"><h2>Merch</h2></a></th>
+			<th><a class="two" href="about.php"><h2>About</h2></a></th>
+			<th><a class="two" href="contact.php"><h2>Contact</h2></a></th>
 		</tr>
 	</table>
 </div>
@@ -42,15 +42,15 @@
 		</tr>
 	</table>
 </div>
-
 <div class="content">
 	<div id="fullcontent">
-		<h1>Armada Merchandise</h1>
-		<hr/>
-		<h1 id="h1left">Sorry for the inconvenience, our merchandise is only available at our live shows or by request.  We may fulfill <a class="one" href="contact.html">email requests</a> depending on your location.</h1>
-		<h3>Shirts - $15</h3>
-		<h3>CDs - $10</h3>
-		<h3>Both - $20</h3>
+		<div id="about" style="float: left">
+			<img src="images/TriggerArmada01.jpg" width="100%" height="auto">		
+		</div>
+		<div id="about" style="float: right">
+			<h1>Trigger Armada</h1>
+			<h2 style="color=black;">Trigger Armada is a hard rock/metal band based out of Minneapolis, MN.  Originating out of Anoka, MN, TA has been playing shows since 2010 with Lead Singer and Bassist Peder Schuller, Lead Guitarist Bryce Dahlke, Rhythm Guitarist Jose Chinas, and Drummer and Vocalist Jeremy Dobratz.  <br/>After dropping their first EP, "Event Horizon" in 2014, Trigger Armada took a year hiatus due to individual pursuits.  At the end of 2015, TA came back with 12 original songs, playing shows in the greater Twin Cities area and recording their first full length, self-produced album--Origins (released 1 Oct 2017).  <br/>Trigger Armada is currently playing shows around Minnesota and writing new music.</h2>
+		</div>
 	</div>
 </div>
 

@@ -92,6 +92,10 @@ body {
 	padding: 5px;
 }
 
+#about {
+	width: 48%;
+}
+
 #leftpicstream {
 	display: none;
 	width: 0%;

@@ -15,12 +15,12 @@
 	<img src="images/profile2.jpg" alt="Trigger Armada" style="max-width: 100%; height: auto;">
 	<table class="navbuttontable">
 		<tr>
-			<th><a class="two" href="index.html"><h2>Home</h2></a></a></th>
-			<th><a class="two" href="events.html"><h2>Shows</h2></a></th>
-			<th><a class="two" href="music.html"><h2>Music</h2></a></th>
-			<th><a class="two" href="merch.html"><h2>Merch</h2></a></th>
-			<th><a class="two" href="about.html"><h2>About</h2></a></th>
-			<th><a class="two" href="contact.html"><h2>Contact</h2></a></th>
+			<th><a class="two" href="index.php"><h2>Home</h2></a></a></th>
+			<th><a class="two" href="events.php"><h2>Shows</h2></a></th>
+			<th><a class="two" href="music.php"><h2>Music</h2></a></th>
+			<th><a class="two" href="merch.php"><h2>Merch</h2></a></th>
+			<th><a class="two" href="about.php"><h2>About</h2></a></th>
+			<th><a class="two" href="contact.php"><h2>Contact</h2></a></th>
 		</tr>
 	</table>
 </div>
@@ -93,10 +93,10 @@
 		<h1>UPCOMING EVENTS</h1>
 		<hr>
 		<hr>
-		<h3>Trigger Armada does not currently have any shows scheduled, we're writing new music!  <a class="one" href="contact.html">Contact us</a> for booking inquiries!</h3>
-		<!--<a class="one" href="https://www.facebook.com/events/719257198528409/" target="_blank">
-		<img alt="RED//Triple Stitch//Los Suenos//Trigger Armada" src="images/RedCaboozePoster.jpg" width="100%" height="auto">	
-		<h2>8/30/2019 - RED @ The Cabooze w/ Triple Stitch, Los Suenos, and Trigger Armada</h2></a>-->
+		<!--<h3>Trigger Armada does not currently have any shows scheduled, we're writing new music!  <a class="one" href="contact.php">Contact us</a> for booking inquiries!</h3>-->
+		<a class="one" href="https://www.facebook.com/events/181268179781086/" target="_blank">
+		<img alt="Psychostick @ Cabooze w/ Piranha, Digital Homicide, Trigger Armada, and more" src="images/Psychostick@Cabooze.jpg" width="100%" height="auto">	
+		<h2>5/2/2020 - Psychostick @ The Cabooze w/ Pirahna, Digital Homicide, Trigger Armada, and More!</h2></a>
 		<!-- TODO: Dynamic Content should start here
 		<a class="one" href="https://www.facebook.com/events/1170903636351630/?ref=br_rs">
 		<img alt="Haken 10th Anniversary Poster" src="images/HakenPoster.jpg" width="100%" height="auto">	
@@ -118,7 +118,8 @@
 	</div>
 </div>
 <div id="bottom-bar">
-	<p>Design and Development by Peder Schuller - Trigger Armada<br />©2017 Trigger Armada.  All rights reserved.</p>
+	<p>Design and Development by Peder Schuller - Trigger Armada<br />©2017 Trigger Armada.  All rights reserved. <!--<a href="login.php">Administrator</a>-->
+	</p>
 </div>
 </body>
 
