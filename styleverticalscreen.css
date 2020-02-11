@@ -35,6 +35,7 @@ body {
 }
 
 .header {
+	position: relative;
 	width: 90%;
 	margin-right: auto;
 	margin-left: auto;
@@ -45,9 +46,24 @@ body {
 	width: 100%;
 	margin: 0;
 	padding: 0;
-	background-color: black;
-	/*color: #6f00d1;*/
-	/*color: gray;*/
+}
+
+.navbar {
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	background-color: #000000e0;
+}
+
+.socialmedialinktable {
+	margin: 10px;
+}
+
+.socialmedialinks {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: #00000080;
 }
 
 .content {
@@ -190,4 +206,8 @@ a.two:hover {
 	font-family: TAShadow;
 	text-decoration: none;
 	font-size: 200%;
+}
+
+th.sm {
+	padding: 10px;
 }
