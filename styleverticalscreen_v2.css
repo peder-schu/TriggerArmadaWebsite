@@ -109,7 +109,24 @@ body {
 }
 
 #about {
-	width: 48%;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	width: 98%;
+	padding-right: 5px;
+	padding-left: 5px;
+	text-align: center;
+	color: white;
+	background-color: #000000a0;
+}
+
+#aboutpic {
+	width: 100%;
+}
+
+#aboutpicdimen {
+	width: 100%;
+	height: auto;
 }
 
 #leftpicstream {

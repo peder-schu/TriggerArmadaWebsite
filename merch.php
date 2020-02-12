@@ -3,8 +3,8 @@
 
 <head>
 	<meta charset='charset=utf-8'>
-	<link type="text/css" rel="stylesheet" media="screen and (min-width: 1000px)" href="stylewidescreen_v1.css">
-	<link type="text/css" rel="stylesheet" media="screen and (max-width: 1000px)" href="styleverticalscreen_v1.css">
+	<link type="text/css" rel="stylesheet" media="screen and (min-width: 1000px)" href="stylewidescreen_v2.css">
+	<link type="text/css" rel="stylesheet" media="screen and (max-width: 1000px)" href="styleverticalscreen_v2.css">
 	<link type="image/gif" rel="icon" href="images/TA4.jpg">
 	<title>Trigger Armada</title>
 	<meta name="description" content="Trigger Armada - Home">
